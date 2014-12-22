@@ -1,0 +1,1 @@
+<?php header("location:widget2/public/Home.php");?>
